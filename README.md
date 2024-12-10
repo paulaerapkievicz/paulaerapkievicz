@@ -6,11 +6,24 @@ I have experience in web development, specializing in technologies such as JavaS
 On this GitHub, you’ll find projects that reflect my commitment to quality, continuous learning, and the challenge of delivering unique and impactful digital experiences.
 
 Technologies I work with:
-Front-end:
-HTML5, CSS3, Sass, Bootstrap, TailwindCSS
-JavaScript, TypeScript, React, Next.js, Vue.js
-Back-end:
-Node.js, Express, Sequelize, PostgreSQL
+Here's some of the stuff I like to use:
+🚀 Front-end:
+
+
+
+
+
+
+
+
+
+
+🛠️ Back-end:
+
+
+
+
+
 Feel free to explore my repositories and connect with me!
 
 Connect with me on LinkedIn:
