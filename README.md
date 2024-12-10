@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello! 👋 Welcome to my GitHub!
+My name is Paula Rapkievicz, and I am a full-stack developer passionate about creating digital solutions that blend functionality and design.
 
-<!--
-**paulaerapkievicz/paulaerapkievicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in web development, specializing in technologies such as JavaScript, HTML, CSS, Vue.js, and Node.js. I also use tools like Postman and ChatGPT to integrate AI solutions into dynamic and innovative projects.
 
-Here are some ideas to get you started:
+On this GitHub, you’ll find projects that reflect my commitment to quality, continuous learning, and the challenge of delivering unique and impactful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I work with:
+Front-end:
+HTML5, CSS3, Sass, Bootstrap, TailwindCSS
+JavaScript, TypeScript, React, Next.js, Vue.js
+Back-end:
+Node.js, Express, Sequelize, PostgreSQL
+Feel free to explore my repositories and connect with me!
+
+Connect with me on LinkedIn:
+https://www.linkedin.com/in/paularapkievicz/
